@@ -94,6 +94,7 @@
 
 ## Lua 
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - A simple sessionizer for wezterm
 - [Kevin-2483/my-nixOS](https://github.com/Kevin-2483/my-nixOS) - Configuration of my nixOS.
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) - Neovim plugin to run golang tests
