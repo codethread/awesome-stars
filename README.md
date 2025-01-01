@@ -6,6 +6,8 @@
 ## Contents
 
 - [C](#c)
+- [C++](#c++)
+- [Cuda](#cuda)
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
@@ -13,6 +15,7 @@
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -31,6 +34,14 @@
 - [ryodeushii/qmk-firmware](https://github.com/ryodeushii/qmk-firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families - fork is Focused on NuPhy Gem80 | Halo75V2 | Air75V2 CFW. If you want to support development of the CFW for Nuphy keyboards - you're w
 - [callum-oakley/qmk_firmware](https://github.com/callum-oakley/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
+
+## C++ 
+
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+## Cuda 
+
+- [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 
 ## Dockerfile 
 
@@ -92,6 +103,11 @@
 - [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 - [Reactive-Extensions/RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 
+## Jupyter Notebook 
+
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
 ## Lua 
 
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
@@ -127,6 +143,8 @@
 
 ## Others 
 
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
+- [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
 - [yumagulovrn/dao-zmk-config](https://github.com/yumagulovrn/dao-zmk-config) - Repository with zmk-config for Dao keyboard firmware
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
