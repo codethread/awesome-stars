@@ -31,6 +31,7 @@
 - [data-structures](#data-structures)
 - [database](#database)
 - [deno](#deno)
+- [dependency-management](#dependency-management)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
@@ -142,7 +143,7 @@
 
 ## backend 
 
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 
 ## bash 
 
@@ -204,12 +205,16 @@
 
 ## database 
 
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 
 ## deno 
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
+
+## dependency-management 
+
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 
 ## docker 
 
@@ -218,7 +223,7 @@
 ## dotfiles 
 
 - [schickling/dotfiles](https://github.com/schickling/dotfiles) - Contents of my ~/.config
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 - [seeingangelz/dotfiles](https://github.com/seeingangelz/dotfiles) - There's no place like ~/
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 
@@ -233,7 +238,7 @@
 
 ## emacs 
 
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 - [sympodius/org-novelist](https://github.com/sympodius/org-novelist) - Org Novelist is a system for writing novel-length fiction using Emacs Org mode.
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [orzechowskid/tsx-mode.el](https://github.com/orzechowskid/tsx-mode.el) - a batteries-included Emacs major mode for Typescript, Javascript, TSX, and JSX files
@@ -253,7 +258,7 @@
 
 ## express 
 
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## font 
@@ -291,6 +296,7 @@
 
 ## hacktoberfest 
 
+- [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
@@ -320,9 +326,10 @@
 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
@@ -359,6 +366,7 @@
 
 ## lua 
 
+- [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [nvim-neorocks/nvim-best-practices](https://github.com/nvim-neorocks/nvim-best-practices) - Collection of DOs and DON'Ts for modern Neovim Lua plugin development
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) - Code outline sidebar powered by LSP. Forked from symbols-outline.nvim.
@@ -371,7 +379,7 @@
 
 ## macos 
 
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
 
@@ -399,7 +407,7 @@
 
 ## nestjs 
 
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 
 ## nextjs 
 
@@ -417,7 +425,7 @@
 
 ## nodejs 
 
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 - [mantoni/core_d.js](https://github.com/mantoni/core_d.js) - Offload your heavy lifting to a daemon. Extracted from eslint_d.
 - [miguelmota/golang-for-nodejs-developers](https://github.com/miguelmota/golang-for-nodejs-developers) - Examples of Golang compared to Node.js for learning 🤓
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -430,7 +438,7 @@
 ## others 
 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA
 - [yumagulovrn/dao-zmk-config](https://github.com/yumagulovrn/dao-zmk-config) - Repository with zmk-config for Dao keyboard firmware
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
@@ -529,7 +537,7 @@
 ## rust 
 
 - [greymattergames/unbug](https://github.com/greymattergames/unbug) - Debug breakpoint assertions for Rust
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps.
@@ -576,7 +584,7 @@
 
 ## terminal 
 
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 
 ## terraform 
@@ -585,11 +593,13 @@
 
 ## testing 
 
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## typescript 
 
+- [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
+- [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for your local-first Expo project: Bun, Expo 51, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
