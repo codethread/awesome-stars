@@ -11,6 +11,7 @@
 - [Dockerfile](#dockerfile)
 - [Emacs Lisp](#emacs-lisp)
 - [Fennel](#fennel)
+- [GLSL](#glsl)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
@@ -37,7 +38,7 @@
 
 ## C++ 
 
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
 ## Cuda 
 
@@ -62,6 +63,10 @@
 ## Fennel 
 
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile, Python and more!)
+
+## GLSL 
+
+- [Kevin-2483/my-nixOS](https://github.com/Kevin-2483/my-nixOS) - Configuration of my nixOS.
 
 ## Go 
 
@@ -89,7 +94,7 @@
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
 - [styled-components/typescript-styled-plugin](https://github.com/styled-components/typescript-styled-plugin) - TypeScript server plugin that adds intellisense to styled component css strings
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
+- [testjavascript/nodejs-testing-best-practices](https://github.com/testjavascript/nodejs-testing-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2025)
 - [mantoni/core_d.js](https://github.com/mantoni/core_d.js) - Offload your heavy lifting to a daemon. Extracted from eslint_d.
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [FardinKarimi/lerna-next-example](https://github.com/FardinKarimi/lerna-next-example) - An example of how to create universal web applications with next.js, styled-components and lerna
@@ -110,9 +115,9 @@
 
 ## Lua 
 
+- [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
 - [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - A simple sessionizer for wezterm
-- [Kevin-2483/my-nixOS](https://github.com/Kevin-2483/my-nixOS) - Configuration of my nixOS.
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) - Neovim plugin to run golang tests
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -135,7 +140,7 @@
 
 - [schickling/dotfiles](https://github.com/schickling/dotfiles) - Contents of my ~/.config
 - [zmre/mac-nix-simple-example](https://github.com/zmre/mac-nix-simple-example) - Example home-manager, nix-darwin starting config
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 
 ## Nushell 
 
@@ -169,8 +174,9 @@
 
 ## Rust 
 
+- [Kampfkarren/full-moon](https://github.com/Kampfkarren/full-moon) - A lossless Lua 5.1 parser
 - [greymattergames/unbug](https://github.com/greymattergames/unbug) - Debug breakpoint assertions for Rust
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [jaemk/self_update](https://github.com/jaemk/self_update) - Self updates for rust executables
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [Kobzol/cargo-wizard](https://github.com/Kobzol/cargo-wizard) - Cargo subcommand for configuring Cargo projects for best performance.
@@ -212,6 +218,7 @@
 
 ## TypeScript 
 
+- [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for your local-first Expo project: Bun, Expo 51, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [SandroMaglione/effect-getting-started](https://github.com/SandroMaglione/effect-getting-started) - Example apps to get started using all the features of effect: Context, Layer, Runtime, Scope and more 🪄
