@@ -117,7 +117,7 @@
 
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort
-- [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - A simple sessionizer for wezterm
+- [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - A sessionizer for wezterm
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) - Neovim plugin to run golang tests
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -219,7 +219,7 @@
 ## TypeScript 
 
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
-- [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for your local-first Expo project: Bun, Expo 51, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
+- [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for your local-first Expo project: Bun, Expo 53, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [SandroMaglione/effect-getting-started](https://github.com/SandroMaglione/effect-getting-started) - Example apps to get started using all the features of effect: Context, Layer, Runtime, Scope and more 🪄
 - [philschonholzer/groupli.app](https://github.com/philschonholzer/groupli.app) - Pair everyone in your group with someone new.
