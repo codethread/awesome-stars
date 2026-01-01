@@ -46,6 +46,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [font](#font)
+- [generative-ai](#generative-ai)
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
@@ -65,6 +66,7 @@
 - [lua](#lua)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [microservices](#microservices)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [nestjs](#nestjs)
@@ -105,7 +107,7 @@
 
 ## ai-agents 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 
 ## algorithm 
 
@@ -296,6 +298,10 @@
 
 - [ToxicFrog/Ligaturizer](https://github.com/ToxicFrog/Ligaturizer) - Programming Fonts with Ligatures added (& a script to add them to other fonts)
 
+## generative-ai 
+
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+
 ## github-api 
 
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
@@ -417,6 +423,11 @@
 - [sindresorhus/KeyboardShortcuts](https://github.com/sindresorhus/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts (hotkeys) to your macOS app in minutes
 - [cormacrelf/dark-notify](https://github.com/cormacrelf/dark-notify) - Watcher for macOS 10.14+ light/dark mode changes
 
+## microservices 
+
+- [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+
 ## natural-language-processing 
 
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
@@ -483,7 +494,7 @@
 - [yumagulovrn/dao-zmk-config](https://github.com/yumagulovrn/dao-zmk-config) - Repository with zmk-config for Dao keyboard firmware
 - [LewisJEllis/awesome-lua](https://github.com/LewisJEllis/awesome-lua) - A curated list of quality Lua packages and resources.
 - [zmre/mac-nix-simple-example](https://github.com/zmre/mac-nix-simple-example) - Example home-manager, nix-darwin starting config
-- [Kevin-2483/my-nixOS](https://github.com/Kevin-2483/my-nixOS) - Configuration of my nixOS.
+- [BeyondtheApex/my-nixOS](https://github.com/BeyondtheApex/my-nixOS) - Configuration of my nixOS.
 - [metaory/xtmux](https://github.com/metaory/xtmux) - ▼ dark minimal tmux setup
 - [SandroMaglione/effect-getting-started](https://github.com/SandroMaglione/effect-getting-started) - Example apps to get started using all the features of effect: Context, Layer, Runtime, Scope and more 🪄
 - [philschonholzer/groupli.app](https://github.com/philschonholzer/groupli.app) - Pair everyone in your group with someone new.
