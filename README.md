@@ -65,7 +65,7 @@
 
 ## GLSL 
 
-- [Kevin-2483/my-nixOS](https://github.com/Kevin-2483/my-nixOS) - Configuration of my nixOS.
+- [BeyondtheApex/my-nixOS](https://github.com/BeyondtheApex/my-nixOS) - Configuration of my nixOS.
 
 ## Go 
 
@@ -148,7 +148,7 @@
 
 ## Others 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Production-ready Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
