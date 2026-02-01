@@ -138,7 +138,6 @@
 
 ## Nix 
 
-- [schickling/dotfiles](https://github.com/schickling/dotfiles) - Contents of my ~/.config
 - [zmre/mac-nix-simple-example](https://github.com/zmre/mac-nix-simple-example) - Example home-manager, nix-darwin starting config
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 
@@ -148,7 +147,6 @@
 
 ## Others 
 
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - Claude subagents collection with 100+ specialized AI agents for full-stack development, DevOps, data science, and business operations.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
@@ -206,6 +204,7 @@
 
 ## Shell 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [metaory/xtmux](https://github.com/metaory/xtmux) - ▼ dark minimal tmux setup
 - [seeingangelz/dotfiles](https://github.com/seeingangelz/dotfiles) - There's no place like ~/
 - [jaclu/tmux-menus](https://github.com/jaclu/tmux-menus) - Tmux plugin, Popup menus to help with managing your environment
