@@ -133,6 +133,7 @@
 
 ## awesome 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [amanbolat/awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) - Awesome-go list with stars. Automatically updated.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -141,6 +142,7 @@
 
 ## awesome-list 
 
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [amanbolat/awesome-go-with-stars](https://github.com/amanbolat/awesome-go-with-stars) - Awesome-go list with stars. Automatically updated.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
