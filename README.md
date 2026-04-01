@@ -13,6 +13,7 @@
 - [Fennel](#fennel)
 - [GLSL](#glsl)
 - [Go](#go)
+- [HTML](#html)
 - [Haskell](#haskell)
 - [Haxe](#haxe)
 - [JavaScript](#javascript)
@@ -77,6 +78,10 @@
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [itsksaurabh/go-grpc-examples](https://github.com/itsksaurabh/go-grpc-examples) - This repo contains examples and implementations of different types of GRPC services and APIs using Golang.
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
+
+## HTML 
+
+- [ghuntley/how-to-ralph-wiggum](https://github.com/ghuntley/how-to-ralph-wiggum) - The Ralph Wiggum Technique—the AI development methodology that reduces software costs to less than a fast food worker's wage.
 
 ## Haskell 
 
@@ -164,7 +169,7 @@
 - [chrisdone-archive/elisp-guide](https://github.com/chrisdone-archive/elisp-guide) - A quick guide to Emacs Lisp programming
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [lleweldyn/i3-Laptop-MacbookPro](https://github.com/lleweldyn/i3-Laptop-MacbookPro) - Laptop Configs
-- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+- [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources [BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 - [oreillymedia/functional_thinking](https://github.com/oreillymedia/functional_thinking) - This is the example code repository for Functional Thinking by Neal Ford (O'Reilly Media)
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 
@@ -220,6 +225,7 @@
 
 ## TypeScript 
 
+- [mikearnaldi/accountability](https://github.com/mikearnaldi/accountability) - 
 - [yioneko/vtsls](https://github.com/yioneko/vtsls) - LSP wrapper for typescript extension of vscode
 - [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for bootstrap your next Expo project: Bun, Expo 54, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
