@@ -406,6 +406,7 @@
 
 ## llm 
 
+- [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono).
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 
@@ -500,6 +501,8 @@
 
 ## others 
 
+- [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [mikearnaldi/accountability](https://github.com/mikearnaldi/accountability) - 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -511,7 +514,7 @@
 - [metaory/xtmux](https://github.com/metaory/xtmux) - ▼ dark minimal tmux setup
 - [SandroMaglione/effect-getting-started](https://github.com/SandroMaglione/effect-getting-started) - Example apps to get started using all the features of effect: Context, Layer, Runtime, Scope and more 🪄
 - [philschonholzer/groupli.app](https://github.com/philschonholzer/groupli.app) - Pair everyone in your group with someone new.
-- [ryodeushii/qmk-firmware](https://github.com/ryodeushii/qmk-firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families - fork is Focused on NuPhy Gem80 | Halo75V2 | Air75V2 CFW. If you want to support development of the CFW for Nuphy keyboards - you're w
+- [ryodeushii/qmk-firmware](https://github.com/ryodeushii/qmk-firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families - fork is Focused on NuPhy Gem80 | Halo75V2 | Halo96V2 | Air75V2 CFW. If you want to support development of the CFW for Nuphy keyboards
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) - Neovim plugin to run golang tests
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) - A library for asynchronous IO in Neovim
 - [vvzz/code_challenge](https://github.com/vvzz/code_challenge) - 
