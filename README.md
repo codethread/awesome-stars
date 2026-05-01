@@ -33,7 +33,7 @@
 
 ## C 
 
-- [ryodeushii/qmk-firmware](https://github.com/ryodeushii/qmk-firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families - fork is Focused on NuPhy Gem80 | Halo75V2 | Air75V2 CFW. If you want to support development of the CFW for Nuphy keyboards - you're w
+- [ryodeushii/qmk-firmware](https://github.com/ryodeushii/qmk-firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families - fork is Focused on NuPhy Gem80 | Halo75V2 | Halo96V2 | Air75V2 CFW. If you want to support development of the CFW for Nuphy keyboards
 - [callum-oakley/qmk_firmware](https://github.com/callum-oakley/qmk_firmware) - keyboard controller firmware for Atmel AVR USB family
 - [bake-bake-bake/bakeware](https://github.com/bake-bake-bake/bakeware) - Compile Elixir applications into single, easily distributed executable binaries
 
@@ -93,6 +93,7 @@
 
 ## JavaScript 
 
+- [qualisero/awesome-pi-agent](https://github.com/qualisero/awesome-pi-agent) - Awesome list of add-ons, hooks, tools, skills, and resources for the pi coding agent (pi-mono).
 - [nickcoutsos/keymap-editor](https://github.com/nickcoutsos/keymap-editor) - A web based graphical editor of ZMK keymaps.
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
@@ -119,6 +120,7 @@
 
 ## Lua 
 
+- [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev (actively maintained fork).
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (actively maintained version)
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) - Nvim lua plugin which adds support for twoslash queries into typescript projects
 - [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
@@ -143,6 +145,7 @@
 
 ## Nix 
 
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [zmre/mac-nix-simple-example](https://github.com/zmre/mac-nix-simple-example) - Example home-manager, nix-darwin starting config
 - [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 
