@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agent-skills](#agent-skills)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -21,6 +22,7 @@
 - [bash](#bash)
 - [c](#c)
 - [chrome-extension](#chrome-extension)
+- [claude](#claude)
 - [cli](#cli)
 - [clojure](#clojure)
 - [coding](#coding)
@@ -89,6 +91,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sqlite](#sqlite)
+- [svelte](#svelte)
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
@@ -104,6 +107,10 @@
 ## agent 
 
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+
+## agent-skills 
+
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 
 ## ai 
 
@@ -179,6 +186,10 @@
 ## chrome-extension 
 
 - [softvar/enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Browser extension to display size of each file, download link and copy file contents directly to the clipboard
+
+## claude 
+
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
 
 ## cli 
 
@@ -628,6 +639,10 @@
 ## sqlite 
 
 - [expo-starter/expo-local-first-template](https://github.com/expo-starter/expo-local-first-template) - 📱 A template for bootstrap your next Expo project: Bun, Expo 54, TypeScript, TailwindCSS, DrizzleORM, Sqlite, EAS, GitHub Actions, Env Vars, expo-router, react-hook-form.
+
+## svelte 
+
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 
 ## swiftui 
 
